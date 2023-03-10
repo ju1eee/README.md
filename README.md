@@ -3,3 +3,4 @@
 
 
 <a href="https://nodejs.org/ko/"><img src="https://img.shields.io/badge/node.js-#339933?style=flat-square&logo=[node.js]&logoColor=white"/></a>
+<a href="[연결할 링크]"><img src="https://img.shields.io/badge/[PhotoShop]-[#31A8FF]?style=flat-square&logo=[Adobe Photoshop]&logoColor=white"/></a>
